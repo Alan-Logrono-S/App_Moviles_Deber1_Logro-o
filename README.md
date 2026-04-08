@@ -32,6 +32,7 @@ Docente: Ing. Juan Carlos Gonzalez
    git clone https://github.com/Alan-Logrono-S/App_Moviles_Deber1_Logro-o.git
 
 📸 Evidencia
+
 <img width="715" height="459" alt="image" src="https://github.com/user-attachments/assets/25660b51-6a02-40a7-80e3-d67b66017eae" />
 
 <img width="698" height="451" alt="image" src="https://github.com/user-attachments/assets/5f6d2e7a-1f03-4774-8d61-cd14518f2b5d" />
